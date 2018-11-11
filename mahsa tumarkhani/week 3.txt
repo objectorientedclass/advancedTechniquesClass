@@ -1,0 +1,36 @@
+Using system;
+Using space consolapp2
+Class test
+Static void mani(string[]arge)
+{
+Consol.mriteline(“student calls star”);
+Students student1=new students(new date(“4,10,1373”));
+Student1._id=1;
+Student1.name=“Mahsa”;
+Student.familily=“khani”;
+Students student2=new students(new date(“4,10,1372”));
+Student1._id=2;
+Student1.name=“panisa”;
+Student1.familly=“safaripor”;
+Student1.showstudentInfo();
+Student2.showstudentInfo();
+Console.Read();
+
+
+
+Public class students
+Public long_id;
+Public string name;
+Public string familly;
+Private string date_of_birth;
+Private string date_date_of_graduation_date;
+Public students(date studentDate)
+This.date_of__birth=studentDate.date_of_birth;
+This.date_of_graduation_date=studentDate.date_of_graduation_date;
+
+Console.writeline (this._id);
+Console.writeline(this.name);
+Console.writeline(this.familly);
+Console.writline (this.date_of_birth);
+Console.writline(this.date_of_graduation_date);
+}
