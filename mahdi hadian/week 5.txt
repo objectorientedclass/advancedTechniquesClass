@@ -1,0 +1,34 @@
+﻿using system;
+namespace app{
+
+    public class motevaziolazla{
+        int width, height, masahat;
+        public motevaziolazla(){
+
+        }
+        public motevaziolazla(int width, int height){
+            this.width = width;
+            this.height = height;
+        }
+
+        public void showWH(){
+            console.writeLine("width is : {0}\nheight is : {1}", width, height);
+        }
+
+        public void calc(){
+            masahat = width * height ;
+            mohit = width * height / 2 ; 
+        }
+    }
+
+    public class Rectangle : motevaziolazla{
+        public override calc (){
+
+        }
+    }
+
+    public class Cube : Rectangle{
+        
+    }
+
+}
