@@ -1,0 +1,77 @@
+﻿namespace x
+{
+    class Employee{
+        int id;
+        string firstName;
+        string lastName;
+        string educate;
+        string hireDate;
+
+        public void Employee(){}
+
+        public void Employee(int id, string firstName, string lastName, string educate, string hireDate){
+            this.id = id;
+            this.firstName = firstName;
+            this.lastName = lastName;
+            this.educate = educate;
+            this.hireDate = hireDate;
+        }
+
+        public void showInfo(){
+            console.writeLine("this employee information is : "+id+"\n"+firstName+"\n"+lastName+"\n"+educate+"\n"+hireDate);
+        }
+    }
+
+    class HEmployee : Employee{
+        int maxWorkedHours;
+        int hourlySalary;
+
+        public void HEmployee(){}
+        
+        public void HEmployee(int maxWorkedHours, int hourlySalary)
+                            :base(int id, string firstName, string lastName, string educate, string hireDate){
+            this.maxWorkedHours = maxWorkedHours;
+            this.hourlySalary = hourlySalary;
+        }
+
+        public override showInfo(){
+            console.writeLine("this hourly employee information is : " +maxWorkedHours+"\n"+hourlySalary);
+        }
+
+        public int calcSalary(){
+            return maxWorkedHours * hourlySalary ;
+        }
+    }
+
+    class PEmployee : HEmployee{
+        string projectName1;
+        string projectName2;
+
+        public void PEmployee(){}
+        
+        public void PEmployee(string projectName1, string projectName2)
+                                    :base(int id, string firstName, string lastName, string educate, string hireDate){
+            this.projectName1 = projectName1;
+            this.projectName2 = projectName2;
+        }
+
+        public override showInfo(){
+            console.writeLine("this P Employee information is : " +projectName1+projectName2);
+        }    
+    }
+
+    class EmployeeTest{
+        public static void main(string args[]){
+            
+            //you have to set parameters in constructor 
+            HEmployee hourlyEmployee = new HEmployee();
+            PEmployee partTimeEmployee = new PEmployee();
+
+            hourlyEmployee.showInfo();
+            partTimeEmployee.showInfo();
+            
+
+        }
+    }
+}
+

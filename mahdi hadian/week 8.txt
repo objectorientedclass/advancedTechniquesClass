@@ -1,0 +1,68 @@
+﻿namespace x
+{
+    public interface Ivehicle{
+        string name;
+        string company;
+        int model;
+        int yearOfConstruction;
+        void age();
+    }
+
+    class Car : Ivehicle{
+        int doors;
+        int capacity;
+
+        public void Motor(string name, string company, int model, int yearOfConstruction, int doors, int capacity){
+            this.name = name;
+            this.company = company;
+            this.model = model;
+            this.yearOfConstruction = yearOfConstruction;
+            this.doors = doors;
+            this.capacity = capacity;
+        }
+
+        void age(){
+            console.writeLine("... years old");
+        }
+
+        public void showInfo(){
+            console.writeLine("info is : " +name+"\n"+company+"\n"+model+"\n"+yearOfConstruction+"\n"+doors+"\n"+capacity);
+        }
+    }
+
+    class Motor : Ivehicle{
+        int engineCapacity;
+
+        public void Motor(string name, string company, int model, int yearOfConstruction, int engineCapacity){
+            this.name = name;
+            this.company = company;
+            this.model = model;
+            this.yearOfConstruction = yearOfConstruction;
+            this.engineCapacity = engineCapacity;
+        }
+
+        void age(){
+            console.writeLine("... years old");
+        }
+        public void showInfo(){
+            console.writeLine("info is : " +name+"\n"+company+"\n"+model+"\n"+yearOfConstruction);
+        }
+    }
+
+
+    class mainVehicle{
+        public static void main(string args[]){
+            
+            //set parameters correctly
+            Car car1 = new Car();
+            Motor motor1 = new Motor();
+
+            car1.showInfo();
+            car1.age();
+
+            motor1.showInfo();
+            motor1.age();
+
+        }
+    }
+}
