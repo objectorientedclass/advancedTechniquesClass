@@ -1,0 +1,46 @@
+﻿Using console App2;
+Using system;
+Using system.collections.Generic;
+Using system.ling;
+Using system.text;
+Using system.Threading.Tasks;
+Namespace consoleApp2
+{
+Class saving Account{
+Static float annual Intrest Rate=10
+Float saving balance;
+Float month Iy AnnualIn trest;
+Float in trestRate;
+Public saving Account (float saving bath is.savingbala savingbala
+}
+Public void calcunt monthIn trest month Iy Annual Intrest=(annual
+}
+Public static void modif/IntrestRat
+{
+}
+Public void frest Rate(float
+This.intrestRate=value;
+}
+Public void show saver Info(){
+Console.writeline(“this saver”s “saving balance:{0}\name
+‘Saving balance,monthIy Anna
+}
+}
+Class Test saving Account {
+Static void main(string[ ]arge)
+{
+Saving Account saver1=new saving Ac
+Saving Account saver2=new saving Ac
+
+Saver1.change Intrest Rate(0,4f);
+Saver2.chande Intrest Rate(0,4f);
+Console.writeline (saver1.show saverI
+Console.writeline(saver2.show savers
+
+Saver1.changeIntrest Rate(0,5f);
+Saver2.changeIntrest Rate(0,5f);
+Console.writeline(saver1.showsaver1
+Console.writeline(saver2.showsaver2
+Console.Readkey();
+}
+}

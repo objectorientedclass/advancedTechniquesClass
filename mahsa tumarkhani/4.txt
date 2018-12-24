@@ -1,0 +1,62 @@
+﻿Using console app2
+Using system;
+Using system.collections.Generic;
+Using system.ling;
+Using system.text;
+Using system.Threading.Tasks;
+Name space consoleApp2;
+{
+Public class Date{
+Private int month;
+Private int day;
+Private int year;
+Public Date(int the month,int theDe
+If(theMonth>0&&the Month<=month=theMonth;
+Else{
+Month=1;
+Console.write line(“month{0
+Year=the year;
+Day=checDay(the Day);
+}
+}
+Private int check Day(int testDay)
+{
+Int[ ] days per month=
+{0,31,28,32,30,31,30
+If(test Day >0&& test Day <=d
+return test Day;
+If (month==2&& test Day ==29
+(Year%400==
+(Yeear%4==0&&year%10
+return test Day;
+Console.writeline(“Day{0}in
+return1;
+}
+Public string To Date string(){
+return month +”/“+day+”/“
+}
+}
+}
+Lass student{
+Public int counter =0;
+Int std— I’d;
+String name,family;
+Date birth Date,essDate;
+Public student1(string name,string family,
+int this.name =name;
+This family=family;
+This std—I’d=std—I’d;
+This.birthDate=birthDate;
+This.successDate=success Date;
+This.counter=counter++;
+Public student(Date bitthDate,Date suceessDate
+This.birthDate=birthDate;
+Public void show Info(){
+Console.writeline(“student in form is+name+family+”/n”+std—I’d+”/n”+”succesDate:”+success Date+”/
+Last test
+Static void main(string[ ]args)
+{
+Student std1=new student(“Mahsa”,”Mona”
+Student std2=new student(“noyan”,”parham”
+Std1.showInfo();
+Std2.show Info();
