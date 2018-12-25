@@ -1,0 +1,32 @@
+C:\Users\Alireza\Desktop\proje\azedanloo\Tamrinha\Ersbari\Shape\Shape\bin\Debug\Shape.exe.config
+C:\Users\Alireza\Desktop\proje\azedanloo\Tamrinha\Ersbari\Shape\Shape\obj\Debug\Shape.csprojResolveAssemblyReference.cache
+C:\Users\Alireza\Desktop\proje\azedanloo\Tamrinha\Ersbari\Shape\Shape\bin\Debug\Shape.exe
+C:\Users\Alireza\Desktop\proje\azedanloo\Tamrinha\Ersbari\Shape\Shape\bin\Debug\Shape.pdb
+C:\Users\Alireza\Desktop\proje\azedanloo\Tamrinha\Ersbari\Shape\Shape\obj\Debug\Shape.exe
+C:\Users\Alireza\Desktop\proje\azedanloo\Tamrinha\Ersbari\Shape\Shape\obj\Debug\Shape.pdb
+C:\Users\2018\Desktop\tamrin\Shape\Shape\bin\Debug\Shape.exe.config
+C:\Users\2018\Desktop\tamrin\Shape\Shape\obj\Debug\Shape.exe
+C:\Users\2018\Desktop\tamrin\Shape\Shape\obj\Debug\Shape.pdb
+C:\Users\2018\Desktop\tamrin\Shape\Shape\bin\Debug\Shape.exe
+C:\Users\2018\Desktop\tamrin\Shape\Shape\bin\Debug\Shape.pdb
+C:\Users\2018\Desktop\tamrin\Shape\Shape\bin\Debug\mscorlib.dll
+C:\Users\2018\Desktop\tamrin\Shape\Shape\bin\Debug\normidna.nlp
+C:\Users\2018\Desktop\tamrin\Shape\Shape\bin\Debug\normnfc.nlp
+C:\Users\2018\Desktop\tamrin\Shape\Shape\bin\Debug\normnfd.nlp
+C:\Users\2018\Desktop\tamrin\Shape\Shape\bin\Debug\normnfkc.nlp
+C:\Users\2018\Desktop\tamrin\Shape\Shape\bin\Debug\normnfkd.nlp
+C:\Users\2018\Desktop\tamrin\Shape\Shape\obj\Debug\Shape.csprojResolveAssemblyReference.cache
+E:\hp 97\desktop 97.02.30\tamrin\Shape\Shape\bin\Debug\Shape.exe.config
+E:\hp 97\desktop 97.02.30\tamrin\Shape\Shape\obj\Debug\Shape.exe
+E:\hp 97\desktop 97.02.30\tamrin\Shape\Shape\obj\Debug\Shape.pdb
+E:\hp 97\desktop 97.02.30\tamrin\Shape\Shape\bin\Debug\Shape.exe
+E:\hp 97\desktop 97.02.30\tamrin\Shape\Shape\bin\Debug\Shape.pdb
+E:\hp 97\desktop 97.02.30\tamrin\Shape\Shape\bin\Debug\mscorlib.dll
+E:\hp 97\desktop 97.02.30\tamrin\Shape\Shape\bin\Debug\System.Net.Http.dll
+E:\hp 97\desktop 97.02.30\tamrin\Shape\Shape\bin\Debug\System.Net.Http.xml
+E:\hp 97\desktop 97.02.30\tamrin\Shape\Shape\bin\Debug\normidna.nlp
+E:\hp 97\desktop 97.02.30\tamrin\Shape\Shape\bin\Debug\normnfc.nlp
+E:\hp 97\desktop 97.02.30\tamrin\Shape\Shape\bin\Debug\normnfd.nlp
+E:\hp 97\desktop 97.02.30\tamrin\Shape\Shape\bin\Debug\normnfkc.nlp
+E:\hp 97\desktop 97.02.30\tamrin\Shape\Shape\bin\Debug\normnfkd.nlp
+E:\hp 97\desktop 97.02.30\tamrin\Shape\Shape\obj\Debug\Shape.csprojResolveAssemblyReference.cache

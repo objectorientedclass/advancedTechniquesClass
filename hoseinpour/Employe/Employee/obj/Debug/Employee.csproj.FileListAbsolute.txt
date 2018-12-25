@@ -1,0 +1,32 @@
+C:\Users\Alireza\Desktop\proje\azedanloo\Tamrinha\Ersbari\Employee\Employee\bin\Debug\Employee.exe.config
+C:\Users\Alireza\Desktop\proje\azedanloo\Tamrinha\Ersbari\Employee\Employee\bin\Debug\Employee.exe
+C:\Users\Alireza\Desktop\proje\azedanloo\Tamrinha\Ersbari\Employee\Employee\bin\Debug\Employee.pdb
+C:\Users\Alireza\Desktop\proje\azedanloo\Tamrinha\Ersbari\Employee\Employee\obj\Debug\Employee.csprojResolveAssemblyReference.cache
+C:\Users\Alireza\Desktop\proje\azedanloo\Tamrinha\Ersbari\Employee\Employee\obj\Debug\Employee.exe
+C:\Users\Alireza\Desktop\proje\azedanloo\Tamrinha\Ersbari\Employee\Employee\obj\Debug\Employee.pdb
+C:\Users\2018\Desktop\tamrin\Employee\Employee\bin\Debug\Employee.exe.config
+C:\Users\2018\Desktop\tamrin\Employee\Employee\obj\Debug\Employee.exe
+C:\Users\2018\Desktop\tamrin\Employee\Employee\obj\Debug\Employee.pdb
+C:\Users\2018\Desktop\tamrin\Employee\Employee\bin\Debug\Employee.exe
+C:\Users\2018\Desktop\tamrin\Employee\Employee\bin\Debug\Employee.pdb
+C:\Users\2018\Desktop\tamrin\Employee\Employee\bin\Debug\mscorlib.dll
+C:\Users\2018\Desktop\tamrin\Employee\Employee\bin\Debug\normidna.nlp
+C:\Users\2018\Desktop\tamrin\Employee\Employee\bin\Debug\normnfc.nlp
+C:\Users\2018\Desktop\tamrin\Employee\Employee\bin\Debug\normnfd.nlp
+C:\Users\2018\Desktop\tamrin\Employee\Employee\bin\Debug\normnfkc.nlp
+C:\Users\2018\Desktop\tamrin\Employee\Employee\bin\Debug\normnfkd.nlp
+C:\Users\2018\Desktop\tamrin\Employee\Employee\obj\Debug\Employee.csprojResolveAssemblyReference.cache
+E:\hp 97\desktop 97.02.30\tamrin\Employee\Employee\bin\Debug\Employee.exe.config
+E:\hp 97\desktop 97.02.30\tamrin\Employee\Employee\obj\Debug\Employee.exe
+E:\hp 97\desktop 97.02.30\tamrin\Employee\Employee\obj\Debug\Employee.pdb
+E:\hp 97\desktop 97.02.30\tamrin\Employee\Employee\bin\Debug\Employee.exe
+E:\hp 97\desktop 97.02.30\tamrin\Employee\Employee\bin\Debug\Employee.pdb
+E:\hp 97\desktop 97.02.30\tamrin\Employee\Employee\bin\Debug\mscorlib.dll
+E:\hp 97\desktop 97.02.30\tamrin\Employee\Employee\bin\Debug\System.Net.Http.dll
+E:\hp 97\desktop 97.02.30\tamrin\Employee\Employee\bin\Debug\System.Net.Http.xml
+E:\hp 97\desktop 97.02.30\tamrin\Employee\Employee\bin\Debug\normidna.nlp
+E:\hp 97\desktop 97.02.30\tamrin\Employee\Employee\bin\Debug\normnfc.nlp
+E:\hp 97\desktop 97.02.30\tamrin\Employee\Employee\bin\Debug\normnfd.nlp
+E:\hp 97\desktop 97.02.30\tamrin\Employee\Employee\bin\Debug\normnfkc.nlp
+E:\hp 97\desktop 97.02.30\tamrin\Employee\Employee\bin\Debug\normnfkd.nlp
+E:\hp 97\desktop 97.02.30\tamrin\Employee\Employee\obj\Debug\Employee.csprojResolveAssemblyReference.cache

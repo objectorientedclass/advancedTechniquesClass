@@ -1,0 +1,9 @@
+c:\users\alireza\documents\visual studio 2015\Projects\Tamrin CSharp\Tamrin CSharp\bin\Debug\Tamrin CSharp.exe.config
+c:\users\alireza\documents\visual studio 2015\Projects\Tamrin CSharp\Tamrin CSharp\obj\Debug\Tamrin CSharp.csprojResolveAssemblyReference.cache
+c:\users\alireza\documents\visual studio 2015\Projects\Tamrin CSharp\Tamrin CSharp\bin\Debug\Tamrin CSharp.exe
+c:\users\alireza\documents\visual studio 2015\Projects\Tamrin CSharp\Tamrin CSharp\bin\Debug\Tamrin CSharp.pdb
+c:\users\alireza\documents\visual studio 2015\Projects\Tamrin CSharp\Tamrin CSharp\obj\Debug\Tamrin CSharp.exe
+c:\users\alireza\documents\visual studio 2015\Projects\Tamrin CSharp\Tamrin CSharp\obj\Debug\Tamrin CSharp.pdb
+C:\Users\hadi\Desktop\Tamrinha\GC.WaitForPendingFinalizers\Without GC.WaitForPendingFinalizers\Tamrin CSharp\bin\Debug\Tamrin CSharp.exe.config
+C:\Users\hadi\Desktop\Tamrinha\GC.WaitForPendingFinalizers\Without GC.WaitForPendingFinalizers\Tamrin CSharp\obj\Debug\Tamrin CSharp.exe
+C:\Users\hadi\Desktop\Tamrinha\GC.WaitForPendingFinalizers\Without GC.WaitForPendingFinalizers\Tamrin CSharp\obj\Debug\Tamrin CSharp.pdb

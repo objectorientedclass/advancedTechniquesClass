@@ -1,0 +1,9 @@
+C:\Users\Alireza\Desktop\proje\azedanloo\1\Date\Date\Date\bin\Debug\Date.exe.config
+C:\Users\Alireza\Desktop\proje\azedanloo\1\Date\Date\Date\bin\Debug\Date.exe
+C:\Users\Alireza\Desktop\proje\azedanloo\1\Date\Date\Date\bin\Debug\Date.pdb
+C:\Users\Alireza\Desktop\proje\azedanloo\1\Date\Date\Date\obj\Debug\Date.csprojResolveAssemblyReference.cache
+C:\Users\Alireza\Desktop\proje\azedanloo\1\Date\Date\Date\obj\Debug\Date.exe
+C:\Users\Alireza\Desktop\proje\azedanloo\1\Date\Date\Date\obj\Debug\Date.pdb
+E:\Tamrinha\Date\Date\Date\bin\Debug\Date.exe.config
+E:\Tamrinha\Date\Date\Date\obj\Debug\Date.exe
+E:\Tamrinha\Date\Date\Date\obj\Debug\Date.pdb
